@@ -25,3 +25,6 @@ Things you may want to cover:
 * Deployment instructions
   Run 'bundle install'
   The root page has already the search form to perform the search and will display the results.
+
+* Testing
+  No tests added. Can be added controller test stubbing the Twitter response or create integration test and record Twitter response with VCR to test that the view is showing the correct information and tweets.
